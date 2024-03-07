@@ -8,5 +8,6 @@ public class Main {
             System.out.println("i = " + i);
         }
         System.out.println("Just do it");
+        System.out.println("Just do it again !");
     }
 }
